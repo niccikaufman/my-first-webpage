@@ -1,5 +1,6 @@
 body {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
 }
 h1 {
   color: teal;
@@ -10,10 +11,23 @@ h2 {
   font-style: italic;
   text-align: center;
 }
+h3 {
+  text-align: left;
+  color: orangered;
+  font-size: 20px;
+  line-height: 20px;
+}
 p {
-  font-family: sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  font-style: oblique;
 }
 ul {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
-  line-height: 30px;
+  line-height: 20px;
+  color: rebeccapurple;
+}
+ol {
+  color:rebeccapurple;
 }
