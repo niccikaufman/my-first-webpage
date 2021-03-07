@@ -1,0 +1,16 @@
+h1 {
+  color: teal;
+  text-align: center;
+}
+h2 {
+  color: darkcyan;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
