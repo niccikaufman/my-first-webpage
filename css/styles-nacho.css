@@ -2,9 +2,10 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
   text-align: justify;
+  background-color: peachpuff;
 }
 h1 {
-  color: teal;
+  color: orange;
   text-align: center;
 }
 h2 {
@@ -13,7 +14,7 @@ h2 {
   text-align: center;
 }
 h3 {
-  text-align: justify;
+  text-align: center;
   color: orangered;
   font-size: 20px;
   line-height: 20px;
